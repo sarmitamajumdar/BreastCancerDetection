@@ -1,1 +1,1 @@
-# BreastCancerDetection
+Breast Cancer is brought on by the unusual growth of cells in the breast. It's basically a malignant, while doctors said that patient is suffering from Breast Cancer. Ontheotherhand while the cell growth are benign that is assumed to be non cancerous. It is a classification problem. 
